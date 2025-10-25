@@ -158,6 +158,7 @@ int main() {
 }
 ```
 
+```
 ## Conclusion
 
 Learning OpenMP and applying it to optimize performance has been an essential part of my journey in parallel programming. These examples showcase my understanding of various constructs in OpenMP, including parallelization, task management, thread safety, synchronization, and cancellation.
@@ -168,20 +169,6 @@ Feel free to explore the examples, try different configurations, and experiment 
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-```
 
-### 说明：
-1. **目录结构**：
-   - 我将 `README.md` 分成了几个部分：简介、学习过程、实际例子、总结和许可证。你可以根据自己的实际情况，增加或删减内容。
-   
-2. **学习模块**：
-   - 我根据你提到的学习模块（例如 `parallel_constructs`，`private_firstprivate_shared_clauses` 等）详细列出了每个模块的目的、关键概念，并提供了相关的代码示例。
-   
-3. **实际代码示例**：
-   - 提供了几个简短的代码示例，帮助读者更好地理解每个模块的用法。
 
-4. **结论和许可证**：
-   - 在文末提供了一个总结部分，表明你在学习 OpenMP 过程中掌握的技能，并鼓励读者实验自己的代码。
-   
-你可以将这个 `README.md` 文件直接复制到你的项目中，作为你学习 OpenMP 的文档记录，帮助你自己回顾并为其他人分享学习过程。
-```
+
