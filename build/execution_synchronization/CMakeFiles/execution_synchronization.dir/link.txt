@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/execution_synchronization.dir/demo01.cpp.o  -o execution_synchronization  /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.so 

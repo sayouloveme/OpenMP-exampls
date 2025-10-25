@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/parallel_constructs_demo.dir/demo02.cpp.o  -o parallel_constructs_demo  /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.so 

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/private_firstprivate_shared_clauses.dir/demo01.cpp.o  -o private_firstprivate_shared_clauses  /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.so 

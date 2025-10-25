@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/thread_safety.dir/demo03.cpp.o  -o thread_safety  /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.so 
